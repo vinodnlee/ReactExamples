@@ -1,4 +1,4 @@
-My React App Boilerplate
+React InputBox-button-List of Components
 =====================
 
 Quickstart project template for learning React.
